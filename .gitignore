@@ -1,0 +1,5 @@
+node_modules/
+db/ticket-journal.db
+public/uploads/*
+!public/uploads/.gitkeep
+.DS_Store
